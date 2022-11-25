@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "rdqm2qJst+Q4vdFqIC/hyas/W1vRjyw7IHbnmIZudoU2rCwdQEmQkNBkO+bd7vf5fAD7dPrSjHDR9svYki3Xzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FH191\\Desktop\\Felipe\\Baita.io\\Calculadora\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.br154.corpintra.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nugget-itlr.dev.tsbr.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
